@@ -1,4 +1,4 @@
-🛒 Customer Sales Behavior Analysis
+# Customer Sales Behavior Analysis
 📌 Project Overview
 
 This project analyzes customer sales behavior to understand how customers purchase products, how discounts and subscriptions affect spending, and which products perform best.
